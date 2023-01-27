@@ -4,7 +4,7 @@
 
 +234-8141953852  | Abuja, Nigeria | <soniqjjj@gmail.com> 
 
-[Https://linkedin.com/in/joy-g](https://linkedin.com/in/joy-g) | [Https://github.com/Joiejoie1](https://github.com/Joiejoie1)i
+[Https://linkedin.com/in/joy-g](https://linkedin.com/in/joy-g) | [Https://github.com/Joiejoie1](https://github.com/Joiejoie1)
 
 Skills and Certificates
 -----------------------
