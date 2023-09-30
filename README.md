@@ -9,7 +9,7 @@
 Skills and Certificates
 -----------------------
 
--   Python, JavaScript, React, SQL, C, Html, CSS, Google Drive, Slack, Figma, Ui/Ux.
+-   Python, JavaScript, React, SQL, C, Html, CSS, Go, Google Drive, Slack, Figma, Ui/Ux.
 
 -   [Alx-T Full Stack Developer](https://www.linkedin.com/posts/emmanuel-udeji_python-javascript-aws-activity-6975326658765418496-hVNJ?utm_source=share&utm_medium=member_desktop); [Alx Software Engineering](https://www.linkedin.com/posts/emmanuel-udeji_letsdohardthings-softwareengineering-faang-activity-6981243547983183872-BhfG?utm_source=share&utm_medium=member_desktop).
 
@@ -35,9 +35,9 @@ Experience
 Projects
 --------
 
-### Housify <https://github.com/Joiejoie1/webstack-portfolio>
+### foodie <https://github.com/Joiejoie1/webstack-portfolio>
 
--   Led a team to build a property management app with React, Tailwind-css, Python and Posgresql. Designed the server to manage 3 user models with CRUD functionality.
+-   Led a team to build a food delivery web app with React, Tailwind-css, Python and Posgresql. Designed the server to manage 3 user models with CRUD functionality.
 
 ### Alx-High-Level-Programing  <https://github.com/Joiejoie1/alx-high_level_programming>
 
@@ -46,10 +46,10 @@ Projects
 Education 
 ----------
 
-### Software EngineeringAlx  (Sep 2022) <https://github.com/Joiejoie1/AirBnB_clone_v4>
+### Software Engineering Alx  (March 2023) <https://github.com/Joiejoie1/AirBnB_clone_v4>
 
 -   Completed rigorous projects in Low-level and High-level programming, that is fast-paced, with a full stack curriculum founded on project-based and peer learning techniques..
 
-### B.Eng Electrical Electronics Engineering, Federal Uni. Tech. Owerri. (Sep 2012) [ Https://futo.edu.ng/](https://futo.edu.ng/); [certificate in Google drive](https://drive.google.com/file/d/1o7WaTI4NlGlEgRM1kuc6jllcUlr_Ufcr/view?usp=share_link)
+### B.A Mass Communications, Olabisi Onabanjo State Uni. Ogun State. (June 2012) [ Https://oouagoiwoye.edu.ng/](https://oouagoiwoye.edu.ng/); [certificate in Google drive](https://drive.google.com/file/d/1o7WaTI4NlGlEgRM1kuc6jllcUlr_Ufcr/view?usp=share_link)
 
--   Graduated with Second class (Upper division) with a specialization in Power System Engineering.
+-   Graduated with Second class (Upper division) with a specialization in Journalisn & Public Relations.
